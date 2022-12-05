@@ -28,7 +28,7 @@ Local
 
 
 # Licences
-
+GPL-3.0-or-later
 
 
 # Contact
