@@ -9,14 +9,14 @@ Nous avons décider de concevoir une application d'aide à la désision pour év
 - Google Colab
 
 # Commencer
-1. Pour commencer, vous pouvez copier se projet.
-2. Liser le rapport technique afin de vous familiriser avec la démarche d'analyse.
+1. Pour commencer, vous pouvez copier ce projet.
+2. Lisez le rapport technique afin de vous familiriser avec la démarche d'analyse.
 3. Ouvrez le notebook template et suiver les instructions
 
 ## Prérequis
 En ligne
 
-Avoir un compte google afin d'accéder à l'application colab. 
+Avoir un compte Google afin d'accéder à l'application colab. 
 
 Local
 - Intaller visual studio code
